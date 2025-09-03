@@ -1,6 +1,6 @@
 name: face_trait_judgment
 channels:
-  - deafults
+  - defaults
   - conda-forge
   - ets
 dependencies:
