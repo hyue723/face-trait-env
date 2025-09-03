@@ -1,0 +1,35 @@
+name: face_trait_judgment
+channels:
+  - defaults
+  - conda-forge
+  - ets
+  - nodefaults
+dependencies:
+  - pip
+  - json5
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - opencv
+  - pandas
+  - pillow
+  - scikit-learn
+  - scikit-image
+  - scipy
+  - seaborn
+  - statsmodels
+  - tqdm
+  - python
+  - r-base
+  - rpy2
+  - cmake
+  - spacy
+  - pingouin
+  - adjusttext
+  - pip:
+      - facemorpher
+      - qc-procrustes
+      - rsatoolbox
+      - symspellpy
+      - factor_analyzer
+prefix: /opt/anaconda3/envs/face_trait_judgment
