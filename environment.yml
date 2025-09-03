@@ -1,8 +1,8 @@
 name: face_trait_judgment
 channels:
-  - ets
+  - deafults
   - conda-forge
-  - defaults
+  - ets
 dependencies:
   - _r-mutex=1.0.1=anacondar_1
   - adjusttext=1.3.0=pyhd8ed1ab_0
