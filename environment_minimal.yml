@@ -1,0 +1,29 @@
+name: face
+channels:
+  - defaults
+  - conda-forge
+  - nodefaults
+dependencies:
+  - scipy
+  - jupyterlab
+  - pandas
+  - seaborn
+  - bokeh
+  - scikit-learn
+  - scikit-image
+  - h5py
+  - tqdm
+  - importlib_resources
+  - conda-forge::pingouin
+  - conda-forge::adjusttext
+  - conda-forge::opencv
+  - plotly
+  - umap-learn
+  - rpy2
+  - cmake
+  - dlib
+  - docopt
+  - matplotlib
+  - numpy
+  - spacy
+prefix: /opt/anaconda3/envs/face
