@@ -29,5 +29,5 @@ dependencies:
       - qc-procrustes==1.1.0
       - rsatoolbox==0.2.0
       - symspellpy==6.9.0
-      - factor_analyzer=0.5.1
+      - factor_analyzer==0.5.1
 prefix: /opt/anaconda3/envs/face_trait_judgment
