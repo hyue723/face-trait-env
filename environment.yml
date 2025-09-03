@@ -19,8 +19,6 @@ dependencies:
   - conda-forge::opencv
   - plotly
   - umap-learn
-  - factor_analyzer
-  - qc-procrustes
   - rpy2
   - cmake
   - dlib
