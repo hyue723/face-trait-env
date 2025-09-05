@@ -2,9 +2,11 @@ name: face_trait_judgment
 channels:
   - conda-forge
 dependencies:
-  - json5
-  - dlib
-  - spacy
+  - json5=0.12.1
+  - dlib=19.24.2
+  - spacy=3.8.7
+  - r-base=4.3.3
+  - r-smacof
   - pip=24.0
   - jupyterlab=4.0.11
   - matplotlib=3.9.2
@@ -19,7 +21,6 @@ dependencies:
   - statsmodels
   - tqdm=4.66.4
   - python=3.12
-  - r-base=4.3.3
   - rpy2=3.5.11
   - cmake=3.30.5
   - pingouin=0.5.5
