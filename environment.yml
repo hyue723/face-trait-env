@@ -6,7 +6,8 @@ dependencies:
   - dlib=19.24.2
   - spacy=3.8.7
   - r-base=4.3.3
-  - r-smacof
+# depending on your system, if you can't install "r-smacof" for
+# the "smacof" R package in anaconda conda, follow the "run_to_install_MDS_Rpackages.ipynb"
   - pip=24.0
   - jupyterlab=4.0.11
   - matplotlib=3.9.2
